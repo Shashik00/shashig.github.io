@@ -58,7 +58,7 @@ Bachelor of Technology in Mining Engineering
 ## 🔍 Key Projects
 
 ### Customer Churn Prediction & Retention Strategy  
-📍 Pennsylvania, USA | 🛠 Python, SQL, Power BI  
+🛠 Python, SQL, Power BI  
 - Developed churn model with 91% accuracy using XGBoost and logistic regression on 50K+ records.  
 - Flagged 35% high-risk users with a custom scoring model and boosted campaign ROI by 18%.  
 - Delivered dashboards for churn monitoring and retention KPIs.
@@ -66,7 +66,7 @@ Bachelor of Technology in Mining Engineering
 ---
 
 ### Production and Inventory Analysis Dashboard  
-📍 Pennsylvania, USA | 🛠 Power BI, Python  
+🛠 Power BI, Python  
 - Scaled a dashboard analyzing 1.2M+ production records, enhancing supply chain visibility.  
 - Identified $250K+ in waste costs via trend analytics and root cause mapping.  
 - Custom DAX KPIs tracked lead time, turnover, and quality deviations.
@@ -74,7 +74,7 @@ Bachelor of Technology in Mining Engineering
 ---
 
 ### Sales Data Analysis & Visualization Dashboard  
-📍 Pennsylvania, USA | 🛠 Power BI, DAX  
+🛠 Power BI, DAX  
 - Analyzed $290K+ in regional sales, finding 20%+ margin gaps across city-level data.  
 - Built interactive dashboards with slicers, filters, and bookmarks for executives.  
 - Helped optimize regional pricing strategy.
@@ -82,7 +82,7 @@ Bachelor of Technology in Mining Engineering
 ---
 
 ### Supply Chain Delivery Performance Analysis  
-📍 Pennsylvania, USA | 🛠 Python  
+🛠 Python  
 - Used logistic regression on 50K+ delivery records to predict late shipments.  
 - Reduced late deliveries by 18% by identifying high-risk routes and modes.  
 - Shared insights via dashboards and risk summary reports for supply chain teams.
